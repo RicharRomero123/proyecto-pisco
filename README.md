@@ -34,10 +34,10 @@ AUTOR: Monkey-hk4
 
 # FOTOS
 - foto de recopilación de datos:
--
+
 ![sh](https://github.com/Monkey-hk4/proyecto-pisco/blob/main/imagenes/logo2.jpg)
 
 - Recopilación de datos usuarios de facebook
-- 
+
 ![sh](https://github.com/Monkey-hk4/proyecto-pisco/blob/main/imagenes/facebook.jpg)
 
