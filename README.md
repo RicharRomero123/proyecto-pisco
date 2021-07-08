@@ -22,7 +22,7 @@ AUTOR: Monkey-hk4
 * `cd proyecto-pisco`
 * `pip install requests`
 * `python3 pisco.py`
-* 
+
 # USO
 * `dump_dni : Extraer datos de Una Persona con su número de dni`
 * `dump_phone : Datos de un número telefónico `
@@ -33,9 +33,11 @@ AUTOR: Monkey-hk4
 * `dump_web : Buscar datos en páginas web nacionales`
 
 # FOTOS
-- foto de recopilación de datos
+- foto de recopilación de datos:
+-
 ![sh](https://github.com/Monkey-hk4/proyecto-pisco/blob/main/imagenes/logo2.jpg)
 
 - Recopilación de datos usuarios de facebook
+- 
 ![sh](https://github.com/Monkey-hk4/proyecto-pisco/blob/main/imagenes/facebook.jpg)
 
