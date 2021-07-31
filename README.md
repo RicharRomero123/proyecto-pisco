@@ -2,8 +2,7 @@
 ![sh](https://github.com/Monkey-hk4/proyecto-pisco/blob/main/imagenes/logo.jpg)
 
 # Descripción
-Proyecto Pisco es un script para recopilar informacón básca de una persona que vive en Perú, mediante número telefónico, DNI, RUC o Usuario de facebook, esto mediante las bases de datos que fueron filtradas de facebook.
-
+Proyecto Pisco es un script para recopilar informacón básca de una persona que vive en Perú, mediante número telefónico, DNI, RUC.
 
 # Mis redes Sociales
 - [`Instagram`](https://www.instagram.com/monkey_hk4/)
@@ -26,7 +25,7 @@ AUTOR: Monkey-hk4
 # USO
 * `dump_dni : Extraer datos de Una Persona con su número de dni`
 * `dump_phone : Datos de un número telefónico `
-* `dump_fb : Buscar nombres, números, correos de usuarios de facebook`
+* `dump_fb : ESTA OPCIÓN ESTA FUERA DE SERVICIO HASTA LA VERSIÓN 2.0`
 * `dump_card : Datos de Tarjetas de crédito o bins`
 * `dump_ruc : Buscar datos de una RUC`
 * `dump_mail : Buscar datos de un correo electrónico`
