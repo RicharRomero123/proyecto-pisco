@@ -1,5 +1,4 @@
 # Proyecto Pisco 2021
-# Próximamente...
 ![sh](https://github.com/Monkey-hk4/proyecto-pisco/blob/main/imagenes/logo.jpg)
 
 # Descripción
@@ -13,7 +12,7 @@ Proyecto Pisco es un script para recopilar informacón básca de una persona que
 # Información
 ```bash 
 VERSIÓN 1.0
-FECHA PUBLICACIÓN: 07/07/2021
+FECHA PUBLICACIÓN: 31/07/2021
 SCRIPT DESARROLLADO EN PYTHON
 AUTOR: Monkey-hk4
 ```
