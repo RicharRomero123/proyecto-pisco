@@ -1,0 +1,8 @@
+import base64
+script = b"""
+aW1wb3J0IHJlcXVlc3RzCmltcG9ydCBqc29uCmRlZiBjb25zdWx0YWNhcmQoKToKICAgIHRhcmpl
+dCA9IGlucHV0KCJEaWdpdG9zIGRlIHRhcmpldGE6ICIpCiAgICByZXNwb25zZSA9IHJlcXVlc3Rz
+LmdldCgiaHR0cHM6Ly9sb29rdXAuYmlubGlzdC5uZXQvIiArdGFyamV0KQogICAgZm9yIGtleSwg
+dmFsdWUgaW4gcmVzcG9uc2UuanNvbigpLml0ZW1zKCk6CiAgICAgICAgCiAgICAgICAgcHJpbnQo
+IlsrXSAlczogJXMiICUgKGtleSwgdmFsdWUpKQ=="""
+exec(base64.b64decode(script))
