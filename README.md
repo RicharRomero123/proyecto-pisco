@@ -43,3 +43,6 @@ AUTOR: Monkey-hk4
 - VIDEO DE DEMOSTRACIÓN 
 - https://www.youtube.com/watch?v=ysZbZJPuxh0&t=41s
 
+# DONACIONES
+- https://www.paypal.com/paypalme/davidhk4
+
