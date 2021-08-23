@@ -13,7 +13,7 @@ Proyecto Pisco es un script para recopilar informacón básca de una persona que
 VERSIÓN 1.0
 FECHA PUBLICACIÓN: 31/07/2021
 SCRIPT DESARROLLADO EN PYTHON
-AUTOR: Monkey-hk4
+AUTOR: d4vid.0day  (Monkey-hk4)
 ```
 
 # Instalación
