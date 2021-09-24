@@ -6,7 +6,7 @@
 Proyecto Pisco es un script para recopilar informacón básca de una persona que vive en Perú, mediante número telefónico, DNI, RUC.
 
 # Mis redes Sociales
-- [`Instagram`](https://www.instagram.com/monkey_hk4/)
+- [`Instagram`](https://www.instagram.com/d4vid.0day/)
 - [`Youtube`](https://www.youtube.com/channel/UCEWGSsk-U9GjCLQk9ng1fNQ)
 
 # Información
