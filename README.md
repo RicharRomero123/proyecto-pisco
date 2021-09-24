@@ -1,6 +1,8 @@
 # Proyecto Pisco 2021
 ![sh](https://github.com/Monkey-hk4/proyecto-pisco/blob/main/imagenes/logo.jpg)
 
+# PROXIMA VERSIÓN PRONTO 
+
 # Descripción
 Proyecto Pisco es un script para recopilar informacón básca de una persona que vive en Perú, mediante número telefónico, DNI, RUC.
 
