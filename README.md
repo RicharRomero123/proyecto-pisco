@@ -13,10 +13,32 @@ Casi toda la información se obtiene mediante el número de DNI(Documento Nacion
 * BUSCAR DONDE VIVE UNA PERSONA MEDIANTE SU NÚMERO DE DNI [RENIEC]
 * INFORAMCIÓN DE UN NÚMERO TELEFÓNICO [CUALQUIER PAIS CON SU CÓDIGO RESPECTIVO]
 ```
-# DESCARGA:
+
+## Instalación: 
+
 ```bash
-ESTARA DISPONIBLE EL 25/10/2021 :)
+# Instalar los requerimientos
+$ pip install requests
+
+# Clone el repositorio 
+$ git clone https://github.com/Monkey-hk4/proyecto-pisco
+
+# Entre al repositorio
+$ cd proyecto-pisco
+
+# Inicar
+$ python3 pisco.py
 ```
+
+## OPCIONES:
+```bash
+$ buscar : Buscar números de dni y fechas de nacimiento por nombres y apellidos.
+$ dni : Consultar los nombres y apellidos de una persona por medio de su dni.
+$ ruc : Consultar una ruc.
+$ casa : Esta opción permite saber donde vive una persona (dirección de su casa)
+$ numero : Información de un número telefónico [uso: cod + num] ejemplo : 51999888777
+```
+
 # SISTEMAS DISPONIBLES
 Este script estará disponible para:
 - LINUX
