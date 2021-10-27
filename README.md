@@ -21,6 +21,7 @@ Casi toda la información se obtiene mediante el número de DNI(Documento Nacion
 $ pip install requests
 $ pip install bs4
 $ pip install lxml
+$ pip install colorama
 
 # Clone el repositorio 
 $ git clone https://github.com/Monkey-hk4/proyecto-pisco
