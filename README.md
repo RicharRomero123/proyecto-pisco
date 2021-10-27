@@ -20,6 +20,7 @@ Casi toda la información se obtiene mediante el número de DNI(Documento Nacion
 # Instalar los requerimientos
 $ pip install requests
 $ pip install bs4
+$ pip install lxml
 
 # Clone el repositorio 
 $ git clone https://github.com/Monkey-hk4/proyecto-pisco
