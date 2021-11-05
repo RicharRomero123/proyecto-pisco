@@ -46,7 +46,6 @@ $ numero : Información de un número telefónico [uso: cod + num] ejemplo : 519
 Este script estará disponible para:
 - LINUX
 - WINDOWS
-- TERMUX
 
 # MIS REDES SOCIALES 
 - [`Instagram`](https://www.instagram.com/d4vid.0day/)
